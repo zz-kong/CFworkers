@@ -1,0 +1,2 @@
+# CFworkers
+Cloudflare Workers Scripts
